@@ -1,14 +1,14 @@
 # 🚗 Fuel Efficiency Analysis
 
 ## 📖 Project Overview
-The **Fuel Efficiency Analysis** project explores how various car features—such as engine size, horsepower, weight, cylinders, and model year—affect fuel efficiency (measured in miles per gallon, MPG).  
+The **Fuel Efficiency Analysis** project explores how various car features—such as engine size, horsepower, weight, cylinders, and model year—affect fuel efficiency (measured in miles per gallon, mpg).  
 Using Python’s data science libraries, this project aims to uncover key insights through **data visualization** and build a **machine learning model** to predict a vehicle’s fuel efficiency based on its specifications.
 
 ---
 
 ## 🎯 Objectives
 - Analyze and visualize relationships between car characteristics and fuel efficiency.  
-- Identify the most influential factors affecting MPG.  
+- Identify the most influential factors affecting mpg.  
 - Build a predictive regression model using machine learning.  
 - Evaluate model performance using standard metrics.  
 
@@ -26,7 +26,7 @@ Using Python’s data science libraries, this project aims to uncover key insigh
 - Data cleaning and preprocessing using `pandas` and `sklearn.preprocessing`  
 - Exploratory data analysis with visualizations (scatter plots, heatmaps, pairplots)  
 - Feature selection and scaling for model optimization  
-- Linear Regression model to predict MPG  
+- Linear Regression model to predict mpg  
 - Model evaluation using **Mean Squared Error (MSE)** and **R² score**  
 
 ---
