@@ -32,14 +32,7 @@ Using Python’s data science libraries, this project aims to uncover key insigh
 ---
 
 ## 📊 Results
-The analysis provides meaningful insights into which car attributes most strongly influence fuel economy and demonstrates how a regression model can effectively predict MPG from numerical and categorical features.
-
----
-
-## 🚀 Future Improvements
-- Include more complex models (e.g., Decision Tree, Random Forest)  
-- Add interactive visualizations using **Plotly** or **Streamlit**  
-- Integrate real-world car datasets for more accurate predictions  
+The analysis provides meaningful insights into which car attributes most strongly influence fuel economy and demonstrates how a regression model can effectively predict MPG from numerical and categorical features. 
 
 ---
 
