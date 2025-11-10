@@ -101,6 +101,7 @@ def sigmoid(x):
 # Calculate accuracy and examining model performance
 accuracy = accuracy_score(data_result_test, Predictive_result) * 100
 testResult_score = Model.predict_proba(data_source_test)[:,1]
+
 '''
 print(confusion_matrix(data_result_test, Predictive_result))
 print(classification_report(data_result_test, Predictive_result))
